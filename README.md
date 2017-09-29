@@ -1,5 +1,4 @@
 # Stock-Tracker
-Tracks stock prices using Yahoo Finance price spreadsheets and calculates the second derivative of change over time
 
 **currently not working as porting to python 2.7.x**
 
